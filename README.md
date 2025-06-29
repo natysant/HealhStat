@@ -30,11 +30,6 @@ This intermediate dashboard helped me analyze raw data and identify key variable
 
 ### 📊 2. Final Dashboard
 
-📽️ *Dashboard in Action:*
-
-![Dashboard GIF](./videoHealthStatDashboard.gif)
-
-
 The final product presents a refined layout with interactive visuals, benchmarks, and key insights.
 
 📸 *Home Screen:*
@@ -97,5 +92,14 @@ The final product presents a refined layout with interactive visuals, benchmarks
 
 ## 📎 Reference
 
-Course available at: **[DataCamp]([https://www.datacamp.com/](https://app.datacamp.com/learn/courses/case-study-analyzing-healthcare-data-in-power-bi))**  
+Course available at: **[DataCamp](https://www.datacamp.com/)**  
 *"Analyzing Healthcare Data in Power BI"* – Lyndsay Girard, Healthcare Analytics Consultant.
+
+---
+
+## 📬 Contact
+
+If you’d like to connect about the project, offer suggestions, or  just chat, feel free to reach out:
+
+💼 [Linkedin](https://www.linkedin.com/in/santiagonat/)
+📧 Email: nataliasantiago2@gmail.com
